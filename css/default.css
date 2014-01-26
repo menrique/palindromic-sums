@@ -1,0 +1,19 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.has-error .form-control,
+.has-error .form-control:focus{
+    border-color: #D9534F;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) #D9534F;
+}
+
+#txtPalindromes {
+    height: 200px;
+    background: #FFFFFF;
+}
